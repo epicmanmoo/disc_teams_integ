@@ -1,1 +1,2 @@
-# disc_teams_integ
+# Presence integration from MS Teams for Discord Rich Presence
+
